@@ -1,6 +1,21 @@
-#include <stdio.h>
-#include <stdlib.h>
+// pre-processor directives
+
+// include needed C and header files
+#include "BasicIo.c"
+#include "Decisions.c"
 
 int main(void){
-    puts("Hello World");
+    /* Basiclo*/
+    //output();
+    //input();
+    
+    /* Decisions */
+    //decisions1();
+    //decisions2();
+    //decisions3();
+    //decisions4();
+    //decisions5();
+    decisions6();
+    
+
 }
